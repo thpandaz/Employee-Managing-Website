@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Microservice learning.iml" filepath="$PROJECT_DIR$/.idea/Microservice learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/demo.iml" filepath="$PROJECT_DIR$/api-gateway/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config/demo (1) (com.cloud-config).iml" filepath="$PROJECT_DIR$/cloud-config/demo (1) (com.cloud-config).iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-registry/demo (1) (com.example).iml" filepath="$PROJECT_DIR$/service-registry/demo (1) (com.example).iml" />
+      <module fileurl="file://$PROJECT_DIR$/employee-service/demo (1) (com.microservice).iml" filepath="$PROJECT_DIR$/employee-service/demo (1) (com.microservice).iml" />
+      <module fileurl="file://$PROJECT_DIR$/department-service/demo (2) (com.microservice).iml" filepath="$PROJECT_DIR$/department-service/demo (2) (com.microservice).iml" />
+    </modules>
+  </component>
+</project>
